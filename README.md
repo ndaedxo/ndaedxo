@@ -44,6 +44,6 @@ My experience with cloud platforms enables me to build systems that are both sca
 ## 📞 Get In Touch  
 I’m always open to new opportunities and collaborations. Let’s build something great together!  
 📧 **Email:** [ndaenukhuba@gmail.com](mailto:ndaenukhuba@gmail.com)  
-🌐 **Portfolio:** [ndaedzoaustin.dev](https://ndaedzoaustin.dev)  
+🌐 **Portfolio:** [ndaedzoaustin.dev]([https://ndaedzoaustin.dev](https://ndaedxo.github.io/Portfolio-Website/))  
 
 ---
